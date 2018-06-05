@@ -354,7 +354,7 @@ For the outliers, one of the methods used is Cooks distance to detect all of the
 
 **Using Cooks Distance method to detect all outliers in the dataset**
 
-![Cooks Distance](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/Cooks_distance.PNG)<!-- -->
+![Cooks Distance](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/unnamed-chunk-8-1.png)<!-- -->
 
 **Viewing the influential row numbers**
 <div style="border: 1px solid #ddd; padding: 5px; overflow-y: scroll; height:300px; overflow-x: scroll; width:900px; "><table class="table" style="margin-left: auto; margin-right: auto;">
@@ -527,10 +527,10 @@ For the outliers, one of the methods used is Cooks distance to detect all of the
 </table></div>
 
 **Age Distribution**
-![Age Distribution](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/Age_distribution.PNG)<!-- -->
+![Age Distribution](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/Age_distribution.PNG)<!-- -->
 
 **Age with Outliers listed on top of the boxplot**
-![Age Outliers](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/Age_outliers.PNG)<!-- -->
+![Age Outliers](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/Age_outliers.PNG)<!-- -->
 
 **Removing the Age Outliers**
 
@@ -562,7 +562,7 @@ For the outliers, one of the methods used is Cooks distance to detect all of the
 ## Data not updated
 ```
 
-![Age Outlier Treat](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/Age_outliers_treat.PNG)<!-- -->
+![Age Outlier Treat](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/Age_outliers_treat.PNG)<!-- -->
 
 From above, the function return a summary after checking for outliers. It gives a summary of the total number of outlier, observation, outlier's proportion, the mean with outliers in the obsservation and the mean after removing the outliers. Once it detects an outlier, it will ask if to remove the outlier and replace it with NA. If you want to get the outlier off, you hit the y button on your keyboard and this will be removed. Then it gives you an update on the chosen option (data updated or data not updated). It also plot two different graphs, one boxplot and one histogram with outliers and the other one is a boxplot and an histogram without outliers.
 
@@ -722,7 +722,7 @@ I used imputation method to fix the NA's in the dataset. Calling on the mice pac
 
 ```
 
-![Missing Data Pattern](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/Missing_pattern.PNG)<!-- -->
+![Missing Data Pattern](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/Missing_pattern.png)<!-- -->
 
 ```
 ## 
