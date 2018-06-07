@@ -127,7 +127,7 @@ Machine learning will be used to write an algorithm in creating a predictive mod
 For the DTs, CART and RF all the of the features were thrown into the model. 
 
 **Below is the feature importance for random forest.**
-![unnamed-chunk-3-1.png](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/unnamed-chunk-3-1.png)<!-- -->
+![unnamed-chunk-3-1.png](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/unnamed-chunk-3-1.png)<!-- -->
 
 ## Machine Learning Technique Used
 For this project, Four binary classification data minning (DM) models will be tested: logistic regression (LR), decision trees (DTs), rpart (CART) and random forest (RF). Also, a cross validation method will be used on the rpart in building this model.
