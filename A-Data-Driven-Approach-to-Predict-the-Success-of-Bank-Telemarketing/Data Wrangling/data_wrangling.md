@@ -535,31 +535,31 @@ For the outliers, one of the methods used is Cooks distance to detect all of the
 **Removing the Age Outliers**
 
 ```
-## Found outliers: 508 in 45307 observations
+ Found outliers: 508 in 45307 observations
 ```
 
 ```
-## Outlier's proportion (%): 1.12123954355839
+ Outlier's proportion (%): 1.12123954355839
 ```
 
 ```
-## Outlier's mean: 76.9153543307087
+ Outlier's mean: 76.9153543307087
 ```
 
 ```
-## Mean with outliers: 40.0322025294105
+ Mean with outliers: 40.0322025294105
 ```
 
 ```
-## Mean without outliers: 39.6139645974241
+ Mean without outliers: 39.6139645974241
 ```
 
 ```
-## Remove and replace outliers with NA? [yes/no]:
+ Remove and replace outliers with NA? [yes/no]:
 ```
 
 ```
-## Data not updated
+ Data not updated
 ```
 
 ![Age Outlier Treat](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/Age_outliers_treat.PNG)<!-- -->
