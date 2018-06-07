@@ -688,12 +688,12 @@ Considering the features of the dataset, it is highly recommended to consider th
 I will like to explore the relationship between some of the features and subscription below.
 
 **Age, Education and Subscription Relationship**
-![AgeEducationandSubscription](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/AgeEducationandSubscription.PNG)<!-- -->
+![AgeEducationandSubscription](https://https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/unnamed-chunk-4-1.png)<!-- -->
 
 The facet histogram above shows the relationship between age, education and subscription rate to the bank term deposit. From this graph, it could be noted that non of those in the illiterate class is afected by the bank term subscription and this can help our further analysis.
 
 **Age, Job, Contact, Subscription Relationship**
-![eda](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda.PNG)<!-- -->
+![eda](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/unnamed-chunk-5-1.png)<!-- -->
 
 From the scatter plot above, a padering could be viewed that more of those been contacted throgh cellular tend to subscribe to the bank term than those been contated through telephone even though the distribution between these two means of contact is kind of even. This features could also be useful in the analysis. This facet shows the relationship between age, job, contact and subscribe.
 
@@ -705,14 +705,14 @@ The scatter plot above shows the subscription rate of the customer based on thei
 ### Checking if a feature fits
 Trying to check if some of the features if they will fit for the model when with outliers and when not with outliers. new_pdays was one the the tested features and below is the plot for both with outliers and without outliers.
 
-![eda2](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda2.PNG)<!-- -->
+![eda2](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda2.PNG)<!-- -->
 
 ### Cleaned data
 After the data is cleaned and ready for anylysis, the below  show the distributions plot, the density plot for some of the variables and the strip plot of the cleaned dataset:
 
 **Distribution of the final dataset**
 ** The continuous variables**
-![eda3](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda3.PNG)<!-- -->
+![eda3](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda3.PNG)<!-- -->
 
 **The categorical variables**
 
@@ -721,13 +721,13 @@ After the data is cleaned and ready for anylysis, the below  show the distributi
 ## they will be dropped
 ```
 
-![eda4](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda4.PNG)<!-- -->
+![eda4](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda4.PNG)<!-- -->
 
 **The density plot**
-![eda5](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda5.PNG)<!-- -->
+![eda5](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda5.PNG)<!-- -->
 
 **The strip plot**
-![eda6](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda6.PNG)<!-- -->
+![eda6](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda6.PNG)<!-- -->
 
 ### Correlations
 **Combining correlogram with the significance test**
@@ -800,14 +800,14 @@ I used a custom R function to compute the matrix of p-value. From the plot below
 
 **Add significance level to the correlogram**
 correlation coefficient values are crossed right here.
-![eda7](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda7.PNG)<!-- -->
+![eda7](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda7.PNG)<!-- -->
 
 **Left blank on no significant coefficient**
 correlation coefficient values are left blank here.
-![eda8](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda8.PNG)<!-- -->
+![eda8](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda8.PNG)<!-- -->
 
 **Correlation graph with histogram using the spearman method**
-![eda9](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/eda9.PNG)<!-- -->
+![eda9](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/eda9.PNG)<!-- -->
 
 ### Conclusion
 The exploratory process helps make the data ready for the predictive model analysis and also, it helps understand the structure of the data.
