@@ -8,7 +8,7 @@ April 05, 2018
 ### Abstract
 With this project an algorithm will be written to predict the success of telemarketing calls for selling bank long-term deposits. A Portuguese retail bank was addressed, with data collected from 2008 to 2013, after the effects of a recent financial crisis.This algorithm could help campaign managers meet their specific goals.
 
-![Fig 1: A Telemarketing View](https://github.com/bolade4/Springboard-Introduction-to-Data-Science-Workshop/blob/master/Capstone/images/telemarketing.jpg)  
+![Fig 1: A Telemarketing View](https://github.com/bolade4/Data-Science-Projects/blob/master/A-Data-Driven-Approach-to-Predict-the-Success-of-Bank-Telemarketing/images/telemarketing.jpg)  
 Fig 1: A Telemarketing View
 
 ### Problem
